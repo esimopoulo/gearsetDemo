@@ -55,6 +55,12 @@
                 <booleanValue>true</booleanValue>
             </value>
         </inputAssignments>
+        <inputAssignments>
+            <field>BillingCity</field>
+            <value>
+                <stringValue>BroCity</stringValue>
+            </value>
+        </inputAssignments>
         <inputReference>$Record</inputReference>
     </recordUpdates>
     <start>
